@@ -5,7 +5,7 @@
         "font": "EBGaramond-Italic",
         "cpl": 36,
         "color": [0,0,0,0],
-        "pos": [525,125,975,350],
+        "pos": [550,125,975,350],
         "specs": [
             "fit"
         ]
@@ -16,7 +16,7 @@
         "font": "EBGaramond-Bold",
         "cpl": 37,
         "color": [0,0,0,0],
-        "pos": [510,475,1000,350],
+        "pos": [535,475,1000,350],
         "specs": [
             "fit"
         ]
