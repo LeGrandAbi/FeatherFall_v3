@@ -11,7 +11,7 @@
     {
         "type": "insert static image",
         "filepath": "src/images/illustrations/jeu_de_base/roles/_background.png",
-        "pos": [150,385,790,750],
+        "pos": [125,385,840,750],
         "specs": [
             "fill",
             "background"
@@ -52,6 +52,6 @@
     },
     {
         "type": "insert label",
-        "pos": [115,855,120,120]
+        "pos": [105,845,120,120]
     }
 ]
