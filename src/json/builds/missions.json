@@ -26,11 +26,11 @@
         "collumn": "tier",
         "font": "EBGaramond-Bold",
         "cpl": 32,
-        "color": [0,0,0,0],
+        "color": [193,170,137,0],
         "pos": [138,260,350,350],
         "specs": [
-            "fit",
-            "opacity 90"
+            "outline 7 0 0 0",
+            "fit"
         ]
     },
     {
